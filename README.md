@@ -5,7 +5,7 @@ Repositorio de archivos y documentos del curso de Estadística, 2021.
 Analisis de datos de la ENDUTIH sobre horas dedicadas a internet versus otras variables.
 Temas: Estadística descriptiva, gráficos y contraste de hipótesis.
 
-La Encuesta Nacional sobre Disponibilidad y Uso de Tecnologías de la Información en los Hogares (ENDUTIH) 2020 tiene como finalidad obtener información sobre la disponibilidad y el uso de las tecnologías de información y comunicaciones en los hogares y su utilización por los individuos de seis años o más en México, para generar información estadística en el tema y apoyar la toma de decisiones en cuestión de políticas públicas.
+La Encuesta Nacional sobre Disponibilidad y Uso de Tecnologías de la Información en los Hogares (ENDUTIH) tiene como finalidad obtener información sobre la disponibilidad y el uso de las tecnologías de información y comunicaciones en los hogares y su utilización por los individuos de seis años o más en México, para generar información estadística en el tema y apoyar la toma de decisiones en cuestión de políticas públicas.
 
 Analisis de la base de datos respecto a las variables de: edad y tiempo que dedica diariamente a Internet:
 
