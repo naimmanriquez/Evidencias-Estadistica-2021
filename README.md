@@ -28,3 +28,4 @@ Realiza un resumen de los hallazgos.
 
 ## Evidencia 2
 Analisis de series de tiempo
+El análisis de series de tiempo constituye una de las herramientas más importantes dentro de la toma de decisiones. Nos ayuda a realizar pronósticos como también a evaluar impactos; por ejemplo, el análisis de series de tiempo nos permite responder a las siguientes preguntas: ¿Cuál será el crecimiento anual del PIB en 2021?, ¿Cuál es la tendencia de una variable? ¿Cómo se va a comportar en el futuro? El análisis de series de tiempo nos brinda respuestas cuantitativas a estas preguntas y más.
