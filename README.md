@@ -37,6 +37,14 @@ Para este modulo vamos a estudiar tres variables:
 
 Instrucciones: 
 
-Elige una de las siguientes entidades: Coahuila, Nuevo León, Sinaloa, Chihuahua o Baja California y realiza lo que se te pide.
+Elige una de las siguientes entidades: Coahuila, Nuevo León, Jalisco, Sinaloa, Chihuahua o Baja California y realiza lo que se te pide.
 
 1. Para el total de la actividad economica (ITAEE), realiza un pronostico de media móvil hasta el último trimestre del 2023. El ITAEE se encuentra disponible en el Banco de Información Económica del INEGI. Puedes seleccionar la serie que va desde 2008 hasta 2021 para realizar el pronóstico. 
+2. Para el caso del indicador de la actividad industrial, realiza un pronóstico para el 2023. Los datos se encuentran en el Banco de Información Económica.
+3. Por último, realiza un pronóstico del PIB del sector manufacturero de la entidad. 
+4. Responde a las siguientes preguntas: ¿cómo se espera que se comporte la manufactura en la entidad? ¿cuál es la perspectiva a largo plazo? Realiza una reflexión del panorama económico de la entidad. 
+
+Entregables: Archivo en Word con los ejercicios y pronósticos, códigos en R utilizados. 
+
+
+
