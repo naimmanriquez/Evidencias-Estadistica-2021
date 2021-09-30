@@ -25,3 +25,6 @@ H0: µ = 7 contra la alternativa de que Ha : µ ≠ 7 con un nivel de significan
 Establece e interpreta el intervalo de confianza al 95%.
 
 Realiza un resumen de los hallazgos.
+
+## Evidencia 2
+Analisis de series de tiempo
