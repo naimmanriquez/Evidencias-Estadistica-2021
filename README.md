@@ -46,5 +46,6 @@ Elige una de las siguientes entidades: Coahuila, Nuevo León, Jalisco, Sinaloa, 
 
 Entregables: Archivo en Word con los ejercicios y pronósticos, códigos en R utilizados. 
 
-
+## Evidencia 3
+Modelos de regresión lineal múltiple: relación entre el precio de vehiculos vs otras variables.
 
