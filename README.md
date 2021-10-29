@@ -27,7 +27,7 @@ Establece e interpreta el intervalo de confianza al 95%.
 Realiza un resumen de los hallazgos.
 
 ## Evidencia 2
-Analisis de series de tiempo
+Analisis de series de tiempo.
 El análisis de series de tiempo constituye una de las herramientas más importantes dentro de la toma de decisiones. Nos ayuda a realizar pronósticos como también a evaluar impactos; por ejemplo, el análisis de series de tiempo nos permite responder a las siguientes preguntas: ¿Cuál será el crecimiento anual del PIB en 2021?, ¿Cuál es la tendencia de una variable? ¿Cómo se va a comportar en el futuro? El análisis de series de tiempo nos brinda respuestas cuantitativas a estas preguntas y más.
 
 Para este modulo vamos a estudiar tres variables:
@@ -49,3 +49,11 @@ Entregables: Archivo en Word con los ejercicios y pronósticos, códigos en R ut
 ## Evidencia 3
 Modelos de regresión lineal múltiple: relación entre el precio de vehiculos vs otras variables.
 
+Este ejercicio consiste en realizar un análisis de datos sobre un dataset de 100,000 vehiculos y 9 atributos. El objetivo es conseguir un modelo de regresión lineal con un resultado aceptable. Antes del analisis de regresión se pide:
+
+1. Realizar limpieza de datos
+2. Estadísticos descriptivos: ¿cuál es el precio promedio por cada una de las marcas de automoviles?, ¿cuánto es el kilometraje promedio para cada una de las marcas?, ¿cuál es la desviación estándar del precio y del kilometraje?, ¿cuál es el precio promedio para los autos electricos, los de gasolina y los de diesel?, ¿cuál es el precio promedio de los automoviles automaticos y estandar? 
+3. Analisis exploratorio de datos: Generar gráficos de dispersión entre precio vs kilometraje por marca y por tipo de vehiculo, analisis de correlación entre precio y kilometraje con su respectiva interpretación, gráfico de precio a través de los años por tipo de automóvil. 
+4. Analisis de regresión: Realizar todos los pasos del analisis, determinar los coeficientes, evaluar p-value, pruebas de hipotesis de los coeficientes, error estándar, R cuadrado ajustado, analisis de los residuos.
+
+Recuerda que la evidencia debe llevar una introducción, explicar la base de datos, mencionar la metodología del analisis de regresión, estadísticos descriptivos, analisis exploratorio de los datos, modelo de regresión y resultados. 
